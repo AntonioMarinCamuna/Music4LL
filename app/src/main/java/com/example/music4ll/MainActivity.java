@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onClick(View view) {
 
-            if(usr.getText().toString().equals("Admin") && psw.getText().toString().equals("1234")){
+            if(usr.getText().toString().equals("admin") && psw.getText().toString().equals("1234")){
 
                 Intent i = new Intent(MainActivity.this, ActivityReproductor.class);
                 startActivity(i);
