@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music4LL</string>
+    <string name="title_activity_reproductor">ActivityReproductor</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="stringGenero">Choose a genre</string>
+    <string name="stringGrupos">Choose a group</string>
+    <string name="stringCanciones">Choose a song</string>
+    <string name="iniciarSesion">Log In</string>
+    <string name="campoUsuario">User</string>
+    <string name="campoContrasena">Password</string>
+    <string name="muteUnmute">Mute</string>
+    <string name="txtGrupos">Group:</string>
+    <string name="txtGeneros">Genre:</string>
+    <string name="txtTemas">Song:</string>
+    <string name="txtErrorLogin">Invalid Credentials</string>
+</resources>
