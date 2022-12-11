@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
         img.setVisibility(View.VISIBLE); //Código que pone la imagen de la portada VISIBLE
 
         btnLogin.setOnClickListener(listener); //Código que usa la variable listener obtenida en el @override
-                                               //del onClick
+                                               //del onClickListener
 
     }
 }

@@ -71,8 +71,8 @@ public class FragmentoError extends Fragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_fragmento_error, container, false);
 
-        //Llamada al método handler para poder mostrar el fragmento durante 1 segundo y
-        // volver al fragmento del login.
+        //Llamada al método handler para poder mostrar el fragmento durante 1 segundo y medio y
+        //volver al fragmento del login.
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
