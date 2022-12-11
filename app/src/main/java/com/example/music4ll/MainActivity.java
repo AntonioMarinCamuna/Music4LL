@@ -14,8 +14,6 @@ import androidx.fragment.app.FragmentTransaction;
 
 public class MainActivity extends AppCompatActivity {
 
-    ////////////
-
     TextView usr;
     TextView psw;
     Button btnLogin;
