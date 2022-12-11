@@ -16,8 +16,10 @@ import android.widget.Switch;
 
 public class ActivityReproductor extends AppCompatActivity {
 
+    /////////////////////////////////////////////////////////////
+
     /*
-    * Definición de las variables que se van a usar en este activity de forma GLOBAL.
+    *
     */
     private Spinner spnGen; //Definición de los spinners para la música.
     private Spinner spnGrp;
