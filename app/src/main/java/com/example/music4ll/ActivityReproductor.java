@@ -384,7 +384,7 @@ public class ActivityReproductor extends AppCompatActivity {
     * Función que restaura el estado del switch encargado de mutear la canción y vuelve a poner
     * el volumen de la música en 1.
     */
-    public void switchVolRes(){
+    public void     switchVolRes(){
 
         swtMuteUnmute.setChecked(false);
         mp.setVolume(1, 1);
